@@ -30,7 +30,7 @@
   "author": "Dr Adam Everspaugh",
   "license": "ISC",
   "dependencies": {
-    "@truffle/hdwallet-provider": "^1.2.1",
+    "@truffle/hdwallet-provider": "^1.6.0",
     "elliptic": "^6.5.3"
   }
 }
